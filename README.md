@@ -3,7 +3,7 @@
 
 -  😄 Pronouns: **She/Her**
 
-- 🌱 I’m currently learning **Machine Learning , DSA in C**
+- 🌱 I’m currently working on **Web Development projects**
 
 - 👯 I’m looking to collaborate on **open source Django projects.**
 
