@@ -3,7 +3,7 @@
 
 -  😄 Pronouns: **She/Her**
 
-- 🌱 I’m currently working on **Frontedn Web Development projects**
+- 🌱 I’m currently working on **Frontend Web Development projects**
 
 - 👯 I’m looking to collaborate on **open source Django projects.**
 
