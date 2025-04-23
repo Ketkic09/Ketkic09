@@ -3,9 +3,9 @@
 
 -  😄 Pronouns: **She/Her**
 
-- 🌱 I’m currently working on **Frontend Web Development projects**
+- 🌱 I’m currently working on **MCP server development**
 
-- 👯 I’m looking to collaborate on **open source Django projects.**
+- 👯 I’m looking to collaborate on **open source projects.**
 
 - 📫 How to reach me **ketki.chavan22@gmail.com**
 
