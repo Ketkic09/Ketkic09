@@ -3,8 +3,10 @@
 
 -  😄 Pronouns: **She/Her**
 
-- 🌱 I’m currently working on **MCP server development**
+- 🌱 I work on **M365 platforms & NodeJs**
 
+- 🌱 I’m currently learning **MCP server development**
+  
 - 👯 I’m looking to collaborate on **open source projects.**
 
 - 📫 How to reach me **ketki.chavan22@gmail.com**
